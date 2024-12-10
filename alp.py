@@ -1,0 +1,9 @@
+/alphabet_game
+   /static
+      /css
+         alphabet.css
+      /js
+         al.js
+   /templates
+      index.html
+   app.py
